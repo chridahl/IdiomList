@@ -1,7 +1,7 @@
 
 # An Incomplete List of Programming Idioms 
 
-One of the great joys of programming is exploring different approaches to problem solving. From domain-specific algorithms to more general concepts and design patterns. Programming languages follow different paradigms ([see this list](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)) and are usually implemented independent of one another. Although many languages share common syntactic traits their implementation may vary vastly. Consequently, each language naturally evolves best practices for developers to use - whether driven by philosophy, constraints and/or strong community influence.
+One of the great joys of programming is exploring different approaches to problem solving. From domain-specific algorithms to more general concepts and design patterns. Programming languages follow different paradigms ([see this list](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)) and are usually implemented independent of one another. Although many languages share common syntactic traits their architecture, implementation and intent of use may vary vastly. Consequently, each language naturally evolves best practices for developers to use - whether driven by philosophy, constraints and/or strong community influence.
 
 This repository gathers resources to get a quick overview of idioms in different programming languages.
 
