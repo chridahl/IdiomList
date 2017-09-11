@@ -9,7 +9,7 @@ This repository gathers resources to get a quick overview of idioms in different
 
 > "A programming idiom is a means of expressing a recurring construct in one or more programming languages. Generally speaking, a programming idiom is an expression of a simple task, algorithm, or data structure that is not a built-in feature in the programming language being used, or, conversely, the use of an unusual or notable feature that is built into a programming language." [Source](https://en.wikipedia.org/wiki/Programming_idiom)
 
-Or as Mr. Joel Kemp describes in a practical context:
+or as Mr. Joel Kemp describes in a more practical context:
 
 > "...I only knew C++. I used it for schoolwork and to build games. I (embarrassingly in hindsight) thought it was the only language worth knowing. Then I was forced to learn Java, coded in Visual Basic for a Summer gig, built an app and game with C#, and dabbled in some web languages like PHP. While it was great to learn new languages, I coded every single one like C++. This was not programming idiomatically. This is a common mistake amongst programmers (across all skill levels really)..." [Source](http://mrjoelkemp.com/2013/05/what-is-idiomatic-programming/)
 
